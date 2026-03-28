@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ALICE_SPACE_COMM
+description: ALICE Space Comm
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
